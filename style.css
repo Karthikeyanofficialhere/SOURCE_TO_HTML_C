@@ -1,0 +1,30 @@
+.keyword1{
+    color:green;
+}
+.keyword{
+    color:goldenrod;
+}
+.comment{
+    color:blue;
+}
+.preprocessor{
+    color:purple;
+}
+.header{
+    color:red;
+}
+.string{
+    color:magenta;
+}
+.numeric_constant{
+    color:brown;
+}
+.ascii_char{
+    color:firebrick;
+}
+.symbol{
+    color: #333333;
+}
+.operator {
+    color: #444;
+}
