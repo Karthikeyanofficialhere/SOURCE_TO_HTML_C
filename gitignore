@@ -1,0 +1,22 @@
+# Compiled executables
+*.exe
+*.out
+source_to_html
+
+# Object files
+*.o
+
+# Generated HTML output
+output.html
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
